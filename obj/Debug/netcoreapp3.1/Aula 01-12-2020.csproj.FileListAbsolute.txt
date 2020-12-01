@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\bin\Debug\netcoreapp3.1\Aula 01-12-2020.exe
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\bin\Debug\netcoreapp3.1\Aula 01-12-2020.deps.json
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\bin\Debug\netcoreapp3.1\Aula 01-12-2020.runtimeconfig.json
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\bin\Debug\netcoreapp3.1\Aula 01-12-2020.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\bin\Debug\netcoreapp3.1\Aula 01-12-2020.dll
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\bin\Debug\netcoreapp3.1\Aula 01-12-2020.pdb
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\obj\Debug\netcoreapp3.1\Aula 01-12-2020.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\obj\Debug\netcoreapp3.1\Aula 01-12-2020.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\obj\Debug\netcoreapp3.1\Aula 01-12-2020.AssemblyInfo.cs
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\obj\Debug\netcoreapp3.1\Aula 01-12-2020.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\obj\Debug\netcoreapp3.1\Aula 01-12-2020.dll
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\obj\Debug\netcoreapp3.1\Aula 01-12-2020.pdb
+C:\Users\fic\Desktop\Taila\Aula 01-12-2020\obj\Debug\netcoreapp3.1\Aula 01-12-2020.genruntimeconfig.cache
